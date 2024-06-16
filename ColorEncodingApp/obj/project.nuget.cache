@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7p9gAFaW/NVVvgNqRnPspPQZm0p+qOy/aFmIhrpXpQo+W0enHC/o4lYmGtWn9yXT72Do52vPEw+eZH8Wqy4zoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spectella\\TUSUR\\ColorEncodingAppRepo\\ColorEncodingApp\\ColorEncodingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spectella\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\spectella\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\spectella\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\spectella\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\spectella\\.nuget\\packages\\system.drawing.common\\8.0.5\\system.drawing.common.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
