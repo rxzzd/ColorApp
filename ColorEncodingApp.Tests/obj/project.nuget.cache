@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z3UMTSWxfwSH1p8Jo3pIu/Dg2UHESwdm/4HON4rYfHdkQ92dZ2yhM+1gOSDt1U2I1zm28sLP2U/DFy8y5gP0DA==",
+  "dgSpecHash": "d+rmwNXGJ2dacUwlhaLyA3DDFrEsa0bIA0G5nRB8EozNU16VaTjI0YkSnUkz8WecsysoLb1Eg8vKb2QHk7eUzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\spectella\\TUSUR\\ColorEncodingApp.Tests\\ColorEncodingApp.Tests.csproj",
+  "projectFilePath": "C:\\Users\\spectella\\TUSUR\\ColorEncodingAppRepo\\ColorEncodingApp.Tests\\ColorEncodingApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spectella\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\spectella\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

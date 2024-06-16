@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\spectella\\TUSUR\\ColorEncodingApp.Tests\\ColorEncodingApp.Tests.csproj": {}
+    "C:\\Users\\spectella\\TUSUR\\ColorEncodingAppRepo\\ColorEncodingApp.Tests\\ColorEncodingApp.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\spectella\\TUSUR\\ColorEncodingApp.Tests\\ColorEncodingApp.Tests.csproj": {
+    "C:\\Users\\spectella\\TUSUR\\ColorEncodingAppRepo\\ColorEncodingApp.Tests\\ColorEncodingApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\spectella\\TUSUR\\ColorEncodingApp.Tests\\ColorEncodingApp.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\spectella\\TUSUR\\ColorEncodingAppRepo\\ColorEncodingApp.Tests\\ColorEncodingApp.Tests.csproj",
         "projectName": "ColorEncodingApp.Tests",
-        "projectPath": "C:\\Users\\spectella\\TUSUR\\ColorEncodingApp.Tests\\ColorEncodingApp.Tests.csproj",
+        "projectPath": "C:\\Users\\spectella\\TUSUR\\ColorEncodingAppRepo\\ColorEncodingApp.Tests\\ColorEncodingApp.Tests.csproj",
         "packagesPath": "C:\\Users\\spectella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\spectella\\TUSUR\\ColorEncodingApp.Tests\\obj\\",
+        "outputPath": "C:\\Users\\spectella\\TUSUR\\ColorEncodingAppRepo\\ColorEncodingApp.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\spectella\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\spectella\\TUSUR\\ColorEncodingApp\\ColorEncodingApp.csproj": {
-                "projectPath": "C:\\Users\\spectella\\TUSUR\\ColorEncodingApp\\ColorEncodingApp.csproj"
+              "C:\\Users\\spectella\\TUSUR\\ColorEncodingAppRepo\\ColorEncodingApp\\ColorEncodingApp.csproj": {
+                "projectPath": "C:\\Users\\spectella\\TUSUR\\ColorEncodingAppRepo\\ColorEncodingApp\\ColorEncodingApp.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\spectella\\TUSUR\\ColorEncodingApp\\ColorEncodingApp.csproj": {
+    "C:\\Users\\spectella\\TUSUR\\ColorEncodingAppRepo\\ColorEncodingApp\\ColorEncodingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\spectella\\TUSUR\\ColorEncodingApp\\ColorEncodingApp.csproj",
+        "projectUniqueName": "C:\\Users\\spectella\\TUSUR\\ColorEncodingAppRepo\\ColorEncodingApp\\ColorEncodingApp.csproj",
         "projectName": "ColorEncodingApp",
-        "projectPath": "C:\\Users\\spectella\\TUSUR\\ColorEncodingApp\\ColorEncodingApp.csproj",
+        "projectPath": "C:\\Users\\spectella\\TUSUR\\ColorEncodingAppRepo\\ColorEncodingApp\\ColorEncodingApp.csproj",
         "packagesPath": "C:\\Users\\spectella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\spectella\\TUSUR\\ColorEncodingApp\\obj\\",
+        "outputPath": "C:\\Users\\spectella\\TUSUR\\ColorEncodingAppRepo\\ColorEncodingApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\spectella\\AppData\\Roaming\\NuGet\\NuGet.Config",

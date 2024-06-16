@@ -13,7 +13,7 @@ namespace ColorEncodingApp.Tests
     {
         private string CreateTestImage()
         {
-            string imagePath = Path.Combine(Path.GetTempPath(), "C:\\Users\\spectella\\TUSUR\\ColorEncodingApp\\images_for_tests\\25600_102_1160_MTY4Nzg4MTkxNC0xMjMwMzMyOTg4.jpg");
+            string imagePath = Path.Combine(Path.GetTempPath(), "C:\\Users\\spectella\\TUSUR\\ColorEncodingAppRepo\\ColorEncodingApp\\images_for_tests\\TEST_IMAGE.jpg");
 
             using (Bitmap bitmap = new Bitmap(10, 10))
             {
@@ -47,7 +47,7 @@ namespace ColorEncodingApp.Tests
             Assert.AreEqual(0, result[0].Green);
             Assert.AreEqual(0, result[0].Blue);
 
-            File.Delete(imagePath);
+            //File.Delete(imagePath);
         }
 
         [TestMethod]
@@ -66,7 +66,7 @@ namespace ColorEncodingApp.Tests
             Assert.AreEqual(0, result.Green);
             Assert.AreEqual(0, result.Blue);
 
-            File.Delete(imagePath);
+            //File.Delete(imagePath);
         }
 
         [TestMethod]
@@ -85,7 +85,7 @@ namespace ColorEncodingApp.Tests
             Assert.AreEqual(255, result.Green);
             Assert.AreEqual(255, result.Blue);
 
-            File.Delete(imagePath);
+            //File.Delete(imagePath);
         }
     }
 }
